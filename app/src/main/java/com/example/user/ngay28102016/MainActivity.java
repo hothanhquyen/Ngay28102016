@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
     Button btScanWifi, btdistance;
     public WifiManager wifiManager;
     WifiScanReceiver wifiScanReceiver;
+    /*
+    * gibhub
+    * */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
